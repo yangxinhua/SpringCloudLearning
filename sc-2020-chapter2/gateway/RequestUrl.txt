@@ -1,0 +1,4 @@
+网关转发请求消费者http://localhost:5000/consumer/hi-feign
+网关转发请求服务提供者http://localhost:5000/provider/hi
+直接调用服务提供者http://localhost:8762/hi
+直接调用消费者http://localhost:8763/hi-feign
